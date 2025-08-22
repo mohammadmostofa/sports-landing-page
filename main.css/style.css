@@ -28,6 +28,17 @@
   justify-content: space-between;
   align-items: center;
   background: white;
-
+  min-height: 90px;
 
 }
+
+/* menu-items style */
+
+.menu-items{
+
+  display: flex;
+  gap: 20px;
+
+}
+
+
