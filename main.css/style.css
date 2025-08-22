@@ -18,11 +18,16 @@
 
   max-width: 1440;
   margin:  0 auto;
-
+  padding: 0px  135px;
 }
 
+/* navbar style */
 .navbar{
 
-  border:  1px solid black;
-  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+
+
 }
