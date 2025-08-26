@@ -79,4 +79,13 @@
 }
 
 
+/* action button style */
 
+
+.action-btn{
+  padding: 10px 10px;
+  border: white;
+  color: black;
+  border-radius: 4px;
+  cursor: pointer;
+}
